@@ -3,7 +3,6 @@
 
 BrandPulse is a modern, responsive web application that provides real-time tracking of brand mentions across various online platforms. It leverages the power of Genkit and Google's Gemini models to analyze sentiment, cluster discussions into topics, and generate insightful reports, giving businesses a live pulse of their brand's public reputation.
 
-![BrandPulse Dashboard Screenshot](https://storage.googleapis.com/stabl-media/brand-pulse-screenshot.png)
 
 ## Key Features
 
